@@ -1,0 +1,6 @@
+.env
+credentials/
+token_*.pickle
+__pycache__/
+*.pyc
+.vscode/
